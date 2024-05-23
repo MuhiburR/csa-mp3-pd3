@@ -7,7 +7,7 @@ bina was here !!
   +  5% of the time an "abnormal day" will occur.
 
 ### Normal day:
-##### A certain number of birds will consume the food and then the food variable will be updated with the remaining amount.
-### 
+##### A certain number of birds will consume the food.
+##### The food variable will be updated with the remaining amount.
 
 ## 
