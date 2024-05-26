@@ -19,8 +19,10 @@ public class Main {
     WordChecker test2 = new WordChecker(list2);
 
     // PART A TESTS
+    
     System.out.println(test1.isWordChain()); 
     // expected result: true
+    
      System.out.println(test2.isWordChain()); 
     // expected result: false
 
@@ -34,10 +36,13 @@ public class Main {
     WordChecker test3 = new WordChecker(list3);
 
     // PART B TESTS
+    
     System.out.println(test3.createList("cat"));
     // ["ch", "chacat", ""]
+    
     System.out.println(test3.createList("catch")); 
     // ["", "acat"]
+    
     System.out.println(test3.createList("dog"));
     // []
 
