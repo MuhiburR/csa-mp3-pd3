@@ -9,7 +9,7 @@
 ### Red (Team 1):
 
 ##### Always the first to make actions.
-##### The food variable will be updated with the remaining amount.
+##### If recieved point then turn continues and the value of the point is added to the score.
 ____________________________________________________________________
 > For Exemplary Purposes
 ### Blue (Team 2):
