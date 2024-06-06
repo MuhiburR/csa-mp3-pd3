@@ -5,13 +5,14 @@
   *  Records the scores and tracks scores of both teams.   
   +  Adds points to a score associated with that specific "team"
  ____________________________________________________________________
-> For Exemplary Purposes)
-### Red:
+> For Exemplary Purposes
+### Red (Team 1):
 
-##### A certain number of birds will consume the food.
+##### Always the first to make actions.
 ##### The food variable will be updated with the remaining amount.
 ____________________________________________________________________
-### Blue:
+> For Exemplary Purposes
+### Blue (Team 2):
 
 ##### A bear will come and empty the food variable.
 ##### The amount of food remaining then would always equal to 0.
