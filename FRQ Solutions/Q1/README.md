@@ -8,5 +8,8 @@ ____________________________________________________________________
 
 ##### A certain number of birds will consume the food.
 ##### The food variable will be updated with the remaining amount.
+____________________________________________________________________
+### Abnormal day:
 
-## 
+##### A bear will come and empty the food variable.
+##### The amount of food remaining then would always equal to 0.
