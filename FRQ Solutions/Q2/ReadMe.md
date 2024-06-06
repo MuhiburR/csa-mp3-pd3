@@ -8,11 +8,13 @@
 > For Exemplary Purposes
 ### Red (Team 1):
 
-##### Always the first to make actions.
-##### If recieved point then turn continues and the value of the point is added to the score.
+- Always the first to make actions.
+- If point(s) are recieved then turn continues and the value of the point is added to the score.
+- If no point(s) recieved then turn ends and it's the oppositions turn.
 ____________________________________________________________________
 > For Exemplary Purposes
 ### Blue (Team 2):
 
-##### A bear will come and empty the food variable.
-##### The amount of food remaining then would always equal to 0.
+- Will play after Red (Team 1) recieves no point.
+- If point(s) are recieved then turn continues and the value of the point is added to the score.
+- If no point(s) recieved then turn ends and it's the oppositions turn.
