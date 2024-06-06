@@ -4,8 +4,8 @@
   -  Creates two "team" variables with names.
   *  Records the scores and tracks scores of both teams.   
   +  Adds points to a score associated with that specific "team"
- 
-> ____________________(For Exemplary Purposes)____________________
+ ____________________________________________________________________
+> For Exemplary Purposes)
 ### Red:
 
 ##### A certain number of birds will consume the food.
