@@ -7,7 +7,7 @@
   +  If previous word does not consecutively appear within the next word for the entire arraylist then **false** is returned.
 ###
     For the second method:
-  -  Checks if the inputted "target" word exists within all the words in the arraylist.\
+  -  Checks if the inputted "target" word exists within all the words in the arraylist.
   +  A new arraylist is created in order to be added with new edited words after the method is done.
   *  If the target words exists within the currently checking word then the target word, the following procedure happens:
         1. Finds the index of the target word inside the selected checking word.
