@@ -2,11 +2,15 @@
 
 ### This code is about consecutively finding the previous word in the next word within an arraylist of words.
     For the first method:
-  -  Within arraylist it checks if the current word consecutively and fully exists within the next upcoming word.
+  -  Checks within the arraylist if the current word consecutively and fully exists within the next upcoming word.
   *  If the previous word consecutively appears within the next word for the entire arraylist then **true** is returned.
   +  If previous word does not consecutively appear within the next word for the entire arraylist then **false** is returned.
 ###
     For the second method:
+  -  Checks if the inputted "target" word exists within all the words in the arraylist.
+  *  If the target words exists within the currently checking word then the target word, the following procedure happens:
+        1. Find 
+  +  If previous word does not consecutively appear within the next word for the entire arraylist then **false** is returned.
  ____________________________________________________________________
 > For Exemplary Purposes
 ### First method:
