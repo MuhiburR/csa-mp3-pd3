@@ -1,4 +1,4 @@
-# 2024 AP CSA Question 1
+# 2024 AP CSA Question 2
 
 ### This code is about a score tracking system.
   -  Creates two "team" variables with names.
