@@ -9,7 +9,7 @@
     For the second method:
  ____________________________________________________________________
 > For Exemplary Purposes
-### Red (Team 1):
+### First method:
 
 - Always the first to make actions.
 - If point(s) are recieved then turn continues and the value of the point is added to the score.
