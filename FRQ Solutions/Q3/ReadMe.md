@@ -21,7 +21,7 @@
 ### First method:
 Arraylist = (an, band, band, abandon)
 : Returns **true**.
-#
+
 Arraylist = (to, too, tools, stool)
 : Returns **false**.
 ____________________________________________________________________
