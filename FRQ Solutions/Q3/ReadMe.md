@@ -32,6 +32,6 @@ Arraylist = (catch, bobcat, catchacat, cat, at)
 
 Target1 = cat : Returns [ch, catchacat] 
 
-Target2 = catch : Returns (acat)
+Target2 = catch : Returns [acat]
 
-Target3 = dog : Return ()
+Target3 = dog : Return []
