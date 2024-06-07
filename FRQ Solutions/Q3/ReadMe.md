@@ -1,6 +1,6 @@
 # 2024 AP CSA Question 3
 
-### This code is about a score tracking system.
+### This code is about find a chain of words within an array of words
   -  Creates two "team" variables with names.
   *  Records the scores and tracks scores of both teams.   
   +  Adds points to a score associated with that specific "team"
