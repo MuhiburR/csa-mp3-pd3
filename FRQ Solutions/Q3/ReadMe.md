@@ -20,10 +20,10 @@
 > For Exemplary Purposes
 ### First method:
 Arraylist = (an, band, band, abandon)
-Returns **true**.
+: Returns **true**.
 #
 Arraylist = (to, too, tools, stool)
-Returns **false**.
+: Returns **false**.
 ____________________________________________________________________
 > For Exemplary Purposes
 ### Second method:
